@@ -27,3 +27,5 @@ Different time complexities for Understanding Big-oh with matplotlib bar graph v
 ![Alt text](twice.png)
 
 7.  N    vs.    N
+
+![Alt text](single-n.png)
