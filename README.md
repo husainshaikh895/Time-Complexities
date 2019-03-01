@@ -30,4 +30,4 @@ Different time complexities for Understanding Big-oh with matplotlib bar graph v
 
 ![Alt text](single-n.png)
 
-**Note : The axeses might have been flipped in some graphs. I'll change that as sson as I can** 
+
